@@ -1,0 +1,94 @@
+{
+	"profiles": [{
+			"basics": {
+				"name": "k surekha",
+				"email": "surekha@gmail.com",
+				"mobile": "+91 1234567890"
+
+			},
+			"education": [{
+					"degree": "S.S.C",
+					"percentage": "90",
+					"institute": "Sri Sadineni Chowdariah public school"
+				},
+				{
+					"degree": "Diploma-(CSE)",
+					"percentage": "85",
+					"institute": "gpw polytechnic"
+
+				},
+				{
+
+					"degree": "B.tech-(CSE)",
+					"percentage": "80",
+					"institute": "VVIT"
+
+				}
+			],
+			"skills": [{
+					"type": "programing laguages",
+					"values": ["c", "c++", "java", "python", "c#", "ruby"]
+				},
+				{
+
+					"type": "web technologies",
+					"values": ["HTML", "CSS", "javascript"]
+				},
+				{
+					"type": "frame works and libraries",
+					"values": ["React js"]
+				},
+				{
+					"type": "Opeating system",
+					"values": ["windows", "linux", "ubuntu"]
+				}
+
+			]
+
+		},
+		{
+			"basics": {
+				"name": " k sushma",
+				"email": "sushma@gmail.com",
+				"mobile": " +91 7843689988"
+			},
+			"education": [{
+					"degree": "S.S.C",
+					"percentage": "90",
+					"institute": "ssc public school"
+				},
+				{
+					"degree": "Inter-(MPC)",
+					"percentage": "85",
+					"institute": "Bhashyam junior college"
+
+				},
+				{
+
+					"degree": "B.tech-(CSE)",
+					"percentage": "80",
+					"institute": "RVR@JC"
+
+				}
+			],
+			"skills": [{
+					"type": "programing laguages",
+					"values": ["c", "c++", "java", "python", "c#", "ruby"]
+				},
+				{
+
+					"type": "web technologies",
+					"values": ["HTML", "CSS", "javascript"]
+				},
+				{
+					"type": "frame works and libraries",
+					"values": ["React js"]
+				},
+				{
+					"type": "Opeating system",
+					"values": ["windows", "linux", "ubuntu"]
+				}
+			]
+		}
+	]
+}
